@@ -6,15 +6,18 @@
 Welcome to PyProSim's documentation!
 ====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers that
-creates recipes mixing random ingredients.  It pulls data from the `Open Food
-Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
-*intuitive* API.
-PyProSim is described, which employs the accurate and reliable FactSage
-thermodynamic databases and Gibbs Energy Minimizer to perform complex
-multicomponent chemical reactions involving liquid metal, liquid oxide,
-solid and gas phases, facilitating the design and optimization of any
-metallurgical process/equipment.
+**PyProSim** is a general purpose metallurgical simulation tool, which employs
+the accurate and reliable FactSage thermodynamic databases and Gibbs Energy
+Minimizer to perform complex multicomponent chemical reactions involving
+liquid metal, liquid oxide, solid and gas phases, facilitating the design and
+optimization of any metallurgical process/equipment.
+
+Although PyProSim has not yet been available as a commercial product for long,
+it has already proven itself as a tool that offers significant advantage over
+other process simulation software. The ability to combine *comprehensive*
+multi-phase multi-component thermodynamic calculation with an *ease of use*
+facilitated by its visual approach, makes it a *highly extensible tool* for
+process model development.
 
 .. note::
 
