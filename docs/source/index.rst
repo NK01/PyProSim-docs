@@ -13,6 +13,7 @@ and employs the accurate and reliable FactSage thermodynamic databases and Gibbs
 The simulation of a simplified Basic Oxygen Furnace (BOF) process is presented here as an example of PyProSim.
 
 .. image:: /images/title.png
+   :width: 800
 
 Optimization of existing metallurgical processes and development of new processes through experiments and plant trials requires a lot of time and resources,
 therefore modeling becomes an indispensable tool. Process simulation is a powerful tool for modeling the whole life cycle of a process, from
