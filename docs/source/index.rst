@@ -12,7 +12,7 @@ Effective Equilibrium Reaction Zone (EERZ) model. PyProSim has four simple modul
 and employs the accurate and reliable FactSage thermodynamic databases and Gibbs Energy Minimizer to perform complex multicomponent chemical reactions.
 The simulation of a simplified Basic Oxygen Furnace (BOF) process is presented here as an example of PyProSim.
 
-.. image:: /images/title.png
+.. image:: /images/title.PNG
    :width: 800
 
 Optimization of existing metallurgical processes and development of new processes through experiments and plant trials requires a lot of time and resources,
